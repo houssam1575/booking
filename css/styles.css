@@ -1,0 +1,24 @@
+/*
+#212121 - black
+#8b7959 - gold
+#ffffff - white */
+
+.background-white {
+  background-color: #ffffff;
+}
+.background-gold {
+  background-color: #8b7959;
+}
+.background-black {
+  background-color: #212121;
+}
+
+.color-white {
+  color: #ffffff;
+}
+.color-gold {
+  color: #8b7959;
+}
+.color-black {
+  color: #212121;
+}
