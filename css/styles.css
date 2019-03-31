@@ -2,6 +2,14 @@
 #212121 - black
 #8b7959 - gold
 #ffffff - white */
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+html, body {
+  font-family: 'Lora', serif;
+  width: 100%;
+  margin: 0;
+  height: 100%;
+}
 
 .background-white {
   background-color: #ffffff;
@@ -21,4 +29,12 @@
 }
 .color-black {
   color: #212121;
+}
+.navbar-spacing {
+  letter-spacing: 3px;
+  margin-bottom: 2px;
+}
+p {
+  line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px; /* between paragraphs */
 }
